@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Libre+Baskerville:wght@400;700&family=Merriweather:wght@400;700&display=swap");
+body {
+  font-family: "Jost", sans-serif;
+  max-width: 1280px;
+  margin: 0 auto;
+  /* padding-left: 45px;
+  padding-right: 45px; */
+}
+
+.hero-bg {
+  background-image: linear-gradient(172deg, #ee9ae5 0.53%, #5961f9 38.96%);
+}
+.btn {
+  color: #fff;
+  font-family: Jost;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  border-radius: 4px;
+  background: #9a7af1;
+}
+.card-bg {
+  border-radius: 35px;
+  background: rgba(255, 255, 255, 0.04);
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.15);
+}
+.input {
+  border-radius: 20px 0px 0px 20px;
+  background: rgba(154, 122, 241, 0.35);
+}
+.Pricing-Card {
+  border-radius: 35px;
+  background: rgba(255, 255, 255, 0.04);
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.15);
+}
+.SingnIn {
+  background-image: linear-gradient(132deg, #ee9ae5 0%, #5961f9 89.67%);
+}
+.submit {
+  border-radius: 20px;
+  background-image: linear-gradient(90deg, #ee9ae5 0%, #5961f9 102.13%);
+}
+.google {
+  border-radius: 20px;
+  border: 1px solid #000;
+  background: #fff;
+}

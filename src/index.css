@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Libre+Baskerville:wght@400;700&family=Merriweather:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: "Jost", sans-serif;
+  max-width: 1623px;
+  margin: 0 auto;
+}
+@media screen and (max-width: 750px) {
+  body {
+  }
+}
+
+.hero-bg {
+  background-color: linear-gradient(172deg, #ee9ae5 0.53%, #5961f9 38.96%);
+}
