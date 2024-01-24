@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 import Hero from "./Hero";
 import Whyus from "./Whyus";
 import Improve from "./Improve";
